@@ -23,7 +23,7 @@ Some data-quality issues were identified, including missing product category val
 - Monthly revenue grew significantly, reaching approximately $1.16 million in April 2018.
 - 95.32% of customers were in the Low or Medium spending tiers, while only 4.67% were in the High spending tier.
 - 96.88% of customers were one-time buyers, while only 3.12% were repeat buyers.
-- Health & Beauty (`beleza_saude`) was the highest-revenue product category, generating approximately $1.44 million, or 9.10% of allocated revenue.
+- Health & Beauty (`beleza_saude`) was the highest-revenue product category, generating $1,258,681.34, or 9.26% of total product revenue.
 - Revenue showed significant month-to-month fluctuations, including a $415,204.92 increase in November 2017 and a $316,481.32 decrease in December 2017.
 
 ## Recommendations
@@ -38,7 +38,7 @@ Since most customers fall into the Low and Medium spending tiers, the business c
 
 ### 3. Leverage High-Performing Categories
 
-The Health & Beauty category generated the highest allocated revenue. The business could use targeted promotions and complementary-product recommendations to further increase sales in high-performing categories.
+The Health & Beauty category generated the highest product revenue. The business could use targeted promotions and complementary-product recommendations to further increase sales in high-performing categories.
 
 ## Tools & Skills
 
@@ -78,4 +78,4 @@ The Health & Beauty category generated the highest allocated revenue. The busine
 | [q5_top_3_products_by_category.sql](q5_top_3_products_by_category.sql) | Top 3 products within each category |
 | [q6_customer_spend_tiers.sql](q6_customer_spend_tiers.sql) | Customer spending segmentation |
 | [q7_repeat_vs_one_time_customers.sql](q7_repeat_vs_one_time_customers.sql) | Repeat vs. one-time customers |
-| [q8_top_category_revenue_share.sql](q8_top_category_revenue_share.sql) | Top category's share of allocated revenue |
+| [q8_top_category_revenue_share.sql](q8_top_category_revenue_share.sql) | Top category's share of total product revenue |
